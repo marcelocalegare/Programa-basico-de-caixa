@@ -1,0 +1,1 @@
+Esse programa é uma atividade que consiste em receber um valor total em compras e devolver as formas de pagamento, para cada forma de pagamento existe uma condição que se aplica ao valor total das compras.
